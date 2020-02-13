@@ -7,4 +7,4 @@ Git tracks file change
 My first origin repository
 Test IDEA control Git
 Create new branch,name is dev
-Test IDEA pull
+Test Git conflict
