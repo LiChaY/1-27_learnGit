@@ -8,3 +8,4 @@ My first origin repository
 Test IDEA control Git
 Create new branch,name is dev
 Test IDEA pull
+Git create conflict
