@@ -7,4 +7,7 @@ package com.li.Redis;
  * @create: 2020-02-13 13:34
  **/
 public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello Git as Idea");
+    }
 }
